@@ -5,5 +5,4 @@
 ---
 Full-Stack | Software Engineer.
 
-I am 21 years old and a Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of Rio Grande do Sul. 
-I currently work as Backend Developer at Zenvia, using technologies such as Java (with Sprint Boot), Node (TypeScript), PHP, Cloud Native with AWS, Docker, Kubernetes, Redis, Kafka and Jenkins.
+Fullstack Developer currently working at [Zenvia](https://www.zenvia.com/), utilizing technologies such as Java (Spring Boot), Node (TypeScript), PHP (legacy), Cloud Native with AWS, Docker, Kubernetes, Redis, and Kafka. Also, creating a new frontend based on React/Next.js.
