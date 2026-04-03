@@ -7,20 +7,37 @@
 
 **Senior-minded Full-Stack Software Engineer**  
 
-Full-stack developer with strong backend focus, currently working at [Zenvia](https://www.zenvia.com/) on large-scale systems.
+Full-stack developer with strong backend focus, currently working at [Zenvia](https://www.zenvia.com/) on CPaaS systems.
 
 I work daily with:
 - **Backend:** Node.js (TypeScript), Java (Spring Boot)
 - **Cloud & Infra:** AWS, Docker, Kubernetes, Redis, Kafka
 - **Frontend:** React, Next.js, Tailwind
 
-Beyond my day job, I build and experiment with SaaS products, automation platforms, and AI-driven systems, with special interest in:
-- Scalable architectures
-- Event-driven systems
-- Developer tooling
-- AI-powered workflows
+Beyond my day job, I operate with a strong builder mindset, focusing on turning ideas into usable products quickly and iterating based on real feedback.
+
+What I care about:
+- Designing scalable and event-driven architectures that handle real-world load and edge cases
+- Building SaaS products end-to-end (idea → MVP → distribution → monetization → iteration)
+- Treating AI as a core primitive, not just an add-on feature
+- Optimizing for speed of validation over overengineering
+- Strong bias toward product thinking: usability, retention, and real user problems over technical purity
+- AI-native products and workflows
+- Growth loops and product distribution
 
 ## Projects
+
+### Adpad – Create winners ads with AI
+
+SaaS AI platform for generating high-converting ad creatives (UGC-style videos, banners, hooks) at scale with AI.
+
+Key aspects:
+- Focus on creative velocity: generate and test multiple variations quickly without relying on designers or editors
+- Designed for affiliates, TikTok Shop sellers, and performance marketers
+- AI pipelines for generating different creative formats aligned with platform dynamics
+
+ **Tech stack:** Confidential  
+ **Website:** https://adpad.com.br
 
 ### **Clara – AI-Powered Personal Finance Assistant on WhatsApp**  
 Personal finance assistant built as my undergraduate thesis, focused on managing expenses through natural conversation on WhatsApp.  
