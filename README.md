@@ -17,9 +17,7 @@ I work daily with:
 Beyond my day job, I operate with a strong builder mindset, focusing on turning ideas into usable products quickly and iterating based on real feedback.
 
 What I care about:
-- Designing scalable and event-driven architectures that handle real-world load and edge cases
 - Building SaaS products end-to-end (idea → MVP → distribution → monetization → iteration)
-- Treating AI as a core primitive, not just an add-on feature
 - Optimizing for speed of validation over overengineering
 - Strong bias toward product thinking: usability, retention, and real user problems over technical purity
 - AI-native products and workflows
@@ -39,6 +37,19 @@ Key aspects:
  **Tech stack:** Confidential  
  **Website:** https://adpad.com.br
 
+### **Chatmocks – Realistic Chat Mockups for Content & Marketing**  
+A commercially active micro SaaS for creating highly realistic chat conversation mockups across WhatsApp, iMessage, Instagram, and 15+ other messaging platforms.
+
+Built end-to-end as a solo project, from product design to monetization and analytics.
+
+Key aspects:
+- Subscription-based product with weekly plans and lifetime licenses, fully integrated with Stripe
+- Strong focus on data-driven decisions, with full analytics instrumentation including user behavior, critical events, session replays, surveys, and error monitoring
+- Optimized for speed, simplicity, and creator workflows
+
+ **Tech stack:** Next.js, React, TypeScript, Vercel, Drizzle, Turso (SQLite), Stripe, PostHog, Google Analytics  
+ **Website:** https://chatmocks.com
+
 ### **Clara – AI-Powered Personal Finance Assistant on WhatsApp**  
 Personal finance assistant built as my undergraduate thesis, focused on managing expenses through natural conversation on WhatsApp.  
 I designed and implemented the system end-to-end, from architecture to cloud deployment, and validated it with real users.
@@ -51,16 +62,3 @@ Key aspects:
 
 **Tech stack:** Node.js, TypeScript, OpenAI, MySQL, Prisma, Redis, BullMQ, Docker, Oracle Cloud, Sentry  
 **Thesis:** https://dspace.ifrs.edu.br/xmlui/handle/123456789/2403
-
-### **ChatMocks – Realistic Chat Mockups for Content & Marketing**  
-A commercially active micro SaaS for creating highly realistic chat conversation mockups across WhatsApp, iMessage, Instagram, and 15+ other messaging platforms.
-
-Built end-to-end as a solo project, from product design to monetization and analytics.
-
-Key aspects:
-- Subscription-based product with weekly plans and lifetime licenses, fully integrated with Stripe
-- Strong focus on data-driven decisions, with full analytics instrumentation including user behavior, critical events, session replays, surveys, and error monitoring
-- Optimized for speed, simplicity, and creator workflows
-
- **Tech stack:** Next.js, React, TypeScript, Vercel, Drizzle, Turso (SQLite), Stripe, PostHog, Google Analytics  
- **Website:** https://chatmocks.com
